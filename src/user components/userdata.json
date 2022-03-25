@@ -1,0 +1,15 @@
+[
+	{
+		"id": "100",
+		"name": "cibi",
+		"email": "cibiarju05@gmail.com",
+		"about": "Hi this is cibi manoj doing full stack development course in guvi and wanted to get job because being jobless sucks ",
+		"profilepic": "https://www.themoviedb.org/t/p/w1280//zHJYRHI5HkQuwLW5KyeXGQ596u7.jpg",
+		"coverpic": "https://wallpapercave.com/wp/HByeKGm.jpg",
+		"food": "Dosa,Seafood",
+		"sport": "cricket",
+		"hobby": "watching movies and series",
+		"location": "Tirupur",
+		"language": "english, tamil,Telugu"
+	}
+]
